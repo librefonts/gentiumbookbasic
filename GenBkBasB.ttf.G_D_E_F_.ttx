@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GDEF ERROR="decompilation error">
+    <!-- An error occurred during the decompilation of this table -->
+    <!-- Traceback (most recent call last):
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/__init__.py", line 372, in __getitem__
+             table.decompile(data, self)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otBase.py", line 38, in decompile
+             self.table.decompile(reader, font)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otBase.py", line 579, in decompile
+             table[conv.name] = conv.read(reader, font, tableStack)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otConverters.py", line 172, in read
+             table.decompile(subReader, font, tableStack)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otBase.py", line 579, in decompile
+             table[conv.name] = conv.read(reader, font, tableStack)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otConverters.py", line 172, in read
+             table.decompile(subReader, font, tableStack)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otBase.py", line 581, in decompile
+             self.postRead(table, font)
+           File "/Volumes/Fonts/all/venv/lib/python2.7/site-packages/FontTools/fontTools/ttLib/tables/otTables.py", line 39, in postRead
+             (r.StartCoverageIndex, len(glyphs))
+         AssertionError: (42, 0)
+          -->
+    <hexdata>
+      00010000 000c00e2 000001e6 00020023
+      00030003 00010013 001c0001 0024003d
+      00010044 005d0001 00620081 00010089
+      00890001 00900091 00010099 00990001
+      009b009b 000100a0 00a10001 00a600a6
+      000100ac 00b10001 00ba00bb 000100c7
+      00d70001 00e200e3 000100e5 00e50001
+      00e700e9 000100eb 014a0001 014c015d
+      0001015f 015f0001 01610163 00010165
+      01a90001 01ab01f8 000101fa 01fa0001
+      01fc01fe 00010200 020f0001 02110235
+      00010237 02d40001 02e702e8 000302ea
+      02f60003 02f902f9 000302fb 02fc0003
+      02ff02ff 00030301 03080003 030b031a
+      00030004 00000002 002a02e7 02e7002a
+      02e802e8 002202ea 02ea0000 02eb02eb
+      002802ec 02ec001c 02ed02ed 001b02ee
+      02ee0001 02ef02ef 001e02f0 02f00014
+      02f102f1 000802f2 02f20003 02f302f3
+      002502f4 02f40024 02f502f5 002602f6
+      02f60004 02f902f9 001302fb 02fb0018
+      02fc02fc 002702ff 02ff0011 03010301
+      000a0302 03020010 03030304 001f0305
+      03050006 03060306 00230307 03070005
+      03080308 0009030b 030b0002 030c030c
+      000f030d 030d000e 030e030e 0017030f
+      030f0021 03100310 00150311 0311000b
+      03120312 00070313 03130012 03140314
+      00160315 03150019 03160316 001d0317
+      0317000d 03180318 00290319 0319000c
+      031a031a 001a0002 000d02e7 02e80001
+      02ea02f6 000102f9 02f90002 02fb02fc
+      000102ff 02ff0001 03010301 00010302
+      03020002 03030303 00010304 03040005
+      03050306 00010307 03070003 03080308
+      0004030b 031a0001  
+    </hexdata>
+  </GDEF>
+
+</ttFont>
