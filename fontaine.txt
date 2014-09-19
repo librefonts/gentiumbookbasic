@@ -1,0 +1,196 @@
+Fonts
+  All fonts have the same character sets.
+  Font:
+    Common name: Gentium Book Basic
+    Sub family: Bold
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) SIL International, 2003-2008.
+    License: Copyright (c) 2003-2008, SIL International (http://www.sil.org/) with Reserved Font Names "Gentium" and "SIL".
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.100
+    Vendor: SIL International
+    Vendor url: http://scripts.sil.org/
+    Designer: J. Victor Gaultney and Annie Olsen
+    Designer url: http://www.sil.org/~gaultney
+    Glyph count: 796
+    Character count: 704
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 38
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Gentium Book Basic
+    Sub family: Bold Italic
+    Style: italic
+    Weight: bold
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) SIL International, 2003-2008.
+    License: Copyright (c) 2003-2008, SIL International (http://www.sil.org/) with Reserved Font Names "Gentium" and "SIL".
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.100
+    Vendor: SIL International
+    Vendor url: http://scripts.sil.org/
+    Designer: J. Victor Gaultney and Annie Olsen
+    Designer url: http://www.sil.org/~gaultney
+    Glyph count: 796
+    Character count: 704
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 38
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Gentium Book Basic
+    Sub family: Italic
+    Style: italic
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) SIL International, 2003-2008.
+    License: Copyright (c) 2003-2008, SIL International (http://www.sil.org/) with Reserved Font Names "Gentium" and "SIL".
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.100
+    Vendor: SIL International
+    Vendor url: http://scripts.sil.org/
+    Designer: J. Victor Gaultney and Annie Olsen
+    Designer url: http://www.sil.org/~gaultney
+    Glyph count: 796
+    Character count: 704
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 38
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
+  Font:
+    Common name: Gentium Book Basic
+    Sub family: Regular
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Copyright (c) SIL International, 2003-2008.
+    License: Copyright (c) 2003-2008, SIL International (http://www.sil.org/) with Reserved Font Names "Gentium" and "SIL".
+    License url: http://scripts.sil.org/OFL
+    Version: Version 1.100
+    Vendor: SIL International
+    Vendor url: http://scripts.sil.org/
+    Designer: J. Victor Gaultney and Annie Olsen
+    Designer url: http://www.sil.org/~gaultney
+    Glyph count: 796
+    Character count: 704
+    Orthographies:
+        Orthography:
+          Common name: Subset vietnamese
+          Support level: partial
+          Percent coverage: 98
+        Orthography:
+          Common name: Subset latin
+          Support level: partial
+          Percent coverage: 97
+        Orthography:
+          Common name: Subset devanagari
+          Support level: fragmentary
+          Percent coverage: 1
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset greek
+          Support level: fragmentary
+          Percent coverage: 2
+        Orthography:
+          Common name: Subset latin-ext
+          Support level: fragmentary
+          Percent coverage: 38
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: full
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
